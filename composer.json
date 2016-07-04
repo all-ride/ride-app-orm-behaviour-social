@@ -12,7 +12,7 @@
         "ride/app-orm": ">=0.3.1",
         "ride/lib-generator": "^1.0.0",
         "ride/lib-orm": ">=0.6.3",
-        "ride/lib-social": ">=0.1.0",
+        "ride/lib-social": "dev-develop",
         "ride/lib-reflection": "^1.0.0",
         "ride/lib-validation": ">=0.4.0"
     },
